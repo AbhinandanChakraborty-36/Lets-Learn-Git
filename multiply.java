@@ -6,6 +6,7 @@ public class multiply {
         int b = 10;
 
         System.out.println(a * b);
+        
     }
 
 }
